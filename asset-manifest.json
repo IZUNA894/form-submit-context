@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/form-submit-context/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/form-submit-context/static/js/main.d6eb3fa2.chunk.js",
+    "main.js.map": "/form-submit-context/static/js/main.d6eb3fa2.chunk.js.map",
+    "runtime-main.js": "/form-submit-context/static/js/runtime-main.eb48e07b.js",
+    "runtime-main.js.map": "/form-submit-context/static/js/runtime-main.eb48e07b.js.map",
+    "static/js/2.f13d71ce.chunk.js": "/form-submit-context/static/js/2.f13d71ce.chunk.js",
+    "static/js/2.f13d71ce.chunk.js.map": "/form-submit-context/static/js/2.f13d71ce.chunk.js.map",
+    "index.html": "/form-submit-context/index.html",
+    "precache-manifest.999bb8fea571f9b9a2429b69c93cc872.js": "/form-submit-context/precache-manifest.999bb8fea571f9b9a2429b69c93cc872.js",
+    "service-worker.js": "/form-submit-context/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/form-submit-context/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f13d71ce.chunk.js.LICENSE.txt": "/form-submit-context/static/js/2.f13d71ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb48e07b.js",
+    "static/js/2.f13d71ce.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d6eb3fa2.chunk.js"
+  ]
+}
